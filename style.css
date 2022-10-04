@@ -9,5 +9,9 @@ h1 {
 }
 
 p {
+    background-color: bisque;
+}
+
+p {
     text-align: center;
 }
