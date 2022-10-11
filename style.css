@@ -2,10 +2,6 @@ body {
     background: bisque;
 }
 
-#banner {
-
-}
-
 /*NAVEGAÇÃO ENTRE PAGINAS*/
 .navegação {
     padding: 20px 0;
@@ -36,8 +32,6 @@ nav a:hover {
 }
 
 /*HOME*/
-
-
 .banner {
     width: 350px;
     height: 350px;
