@@ -37,6 +37,12 @@ nav a:hover {
     height: 350px;
 }
 
+.principal {
+    background: #cccccc;
+    padding: 30px;
+
+}
+
 h1 {
     text-align: center;
     color: black;
@@ -49,7 +55,7 @@ p {
 
 #missao {
     font-size: 20px;
-    padding: 20%;
+    padding: 20px;
 }
 
 .imagembanner2 {
