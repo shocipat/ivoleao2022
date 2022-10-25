@@ -40,16 +40,14 @@ nav a:hover {
 .principal {
     background: #cccccc;
     padding: 30px;
-
  }
  
 .titulo-principal{
     padding: 20px;
-
 }
 
 .titulo-centralizado{
-
+    text-align: center;
 }
 
 
@@ -85,5 +83,4 @@ ul {
 
 .imagembanner2{
     width: 50%;
-
 }
