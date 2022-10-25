@@ -41,6 +41,11 @@ nav a:hover {
     background: #cccccc;
     padding: 30px;
 
+ }
+ 
+.titulo-principal{
+    padding: 20px;
+
 }
 
 .titulo-centralizado{
